@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+
+* {
+    display: box;
+    margin:0;
+    padding:0;
+}
+
+
+p {
+    color: black;
+    background-color: rgb(183, 244, 212);
+}
+
+h1 {
+    color:rgb(74, 16, 129);
+}
+
+.container {
+    margin-left: 1.5rem;
+}
+
+.bluezoneimage {
+    border-radius: 75px;
+   margin-bottom: 1.3rem;
+}
+
+.img-div {
+   text-align: center;
+}
+
+.fuggles-font{
+    font-family: 'Fuggles', cursive;
+    font-size: 2rem;
+}
